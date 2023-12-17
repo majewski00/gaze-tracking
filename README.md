@@ -32,7 +32,7 @@
 </div>   
   
   
-Additionally, after performing data analysis on the worst predictions, it turns out that the majority of errors occur around the left and right edges of the screen. This observation indicates that the dataset, collected in a horizontal manner, lacks quality images in those areas.  
+Additionally, after performing *data analysis* on the worst predictions, it turns out that the majority of errors occur around the left and right edges of the screen. This observation indicates that the dataset, collected in a horizontal manner, lacks quality images in those areas.  
   
 <div align="center">
   <span>  <i> Historgams and Heatmap of the first learning </i>  </span>
@@ -46,3 +46,8 @@ Additionally, after performing data analysis on the worst predictions, it turns 
   
   
 <p align="center">❕ ❕  WIP  ❕ ❕</p>
+  
+## References
+[1] K. Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. *Eye tracking for*
+everyone.   
+[2] J. Sharma, J. Campbell, P. Ansell, J. Beavers, and C. O’Dowd. *Towards Hardware-Agnostic Gaze-Trackers.*
