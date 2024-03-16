@@ -41,13 +41,15 @@ Additionally, after performing *data analysis* on the worst predictions, it turn
     </p>
 </div>  
 <br>
+
+## Current development  
+- Applying low-precision (16 bit float) into Dataset  
+- Testing the accuracy of PirateNets [3] instead of ResNets  
+- Graphical interface, to display and test the result in real-time  
 <br>
-<br>
-  
-  
 <p align="center">❕ ❕  WIP  ❕ ❕</p>
-  
+ 
 ## References
-[1] K. Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba. *Eye tracking for*
-everyone.   
-[2] J. Sharma, J. Campbell, P. Ansell, J. Beavers, and C. O’Dowd. *Towards Hardware-Agnostic Gaze-Trackers.*
+[1] K. Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba  - **Eye tracking for everyone.**   
+[2] J. Sharma, J. Campbell, P. Ansell, J. Beavers, and C. O’Dowd -   **Towards Hardware-Agnostic Gaze-Trackers.**  
+[3] S. Wang, B. Li, Y. Chen, P. Perdikaris, 2024 - **PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks**  
