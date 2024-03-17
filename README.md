@@ -43,13 +43,13 @@ Additionally, after performing *data analysis* on the worst predictions, it turn
 <br>
 
 ## Current development  
-- Applying low-precision (16 bit float) into Dataset  
-- Testing the accuracy of PirateNets [3] instead of ResNets  
-- Graphical interface, to display and test the result in real-time  
+- Implementing low-precision (16-bit float) support in the dataset processing
+- Evaluating the performance of PirateNets [3] in comparison to ResNets  
+- Developing a graphical interface for real-time visualization and testing of results 
 <br>
 <p align="center">❕ ❕  WIP  ❕ ❕</p>
  
 ## References
-[1] K. Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba  - **Eye tracking for everyone.**   
-[2] J. Sharma, J. Campbell, P. Ansell, J. Beavers, and C. O’Dowd -   **Towards Hardware-Agnostic Gaze-Trackers.**  
-[3] S. Wang, B. Li, Y. Chen, P. Perdikaris, 2024 - **PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks**  
+[1] K. Krafka, A. Khosla, P. Kellnhofer, H. Kannan, S. Bhandarkar, W. Matusik, and A. Torralba; 2016  - **Eye tracking for everyone.**   
+[2] J. Sharma, J. Campbell, P. Ansell, J. Beavers, and C. O’Dowd; 2020 -   **Towards Hardware-Agnostic Gaze-Trackers.**  
+[3] S. Wang, B. Li, Y. Chen, P. Perdikaris; 2024 - **PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks**  
